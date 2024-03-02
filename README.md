@@ -1,1 +1,1 @@
-# Scientific_image_classifier
+# Scientific image classifier
